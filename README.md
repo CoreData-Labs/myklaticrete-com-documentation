@@ -102,7 +102,7 @@ go run main.go
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/PrajwalKoirala638/myklaticrete-com-documentation.git
+git clone https://github.com/CoreData-Labs/myklaticrete-com-documentation.git
 cd myklaticrete-com-documentation
 ```
 
